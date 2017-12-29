@@ -1,0 +1,12 @@
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Queues.exe.config
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Queues.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Queues.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\obj\Debug\Queues.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\obj\Debug\Queues.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\QueueModel.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\bin\Debug\QueueModel.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache

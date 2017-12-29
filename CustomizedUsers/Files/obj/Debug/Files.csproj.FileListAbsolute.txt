@@ -1,0 +1,9 @@
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Files.exe.config
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Files.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Files.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\obj\Debug\Files.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Files\obj\Debug\Files.pdb

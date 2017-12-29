@@ -1,0 +1,10 @@
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Blobs.exe.config
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Blobs.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Blobs.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\obj\Debug\Blobs.exe
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\obj\Debug\Blobs.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache

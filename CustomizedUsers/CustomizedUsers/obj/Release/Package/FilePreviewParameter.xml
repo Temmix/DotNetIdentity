@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MvcAzurex" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Fierce\ PC\\Desktop\\Development\\DotNetIdentity\\CustomizedUsers\\CustomizedUsers\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Fierce\ PC\\Desktop\\Development\\DotNetIdentity\\CustomizedUsers\\CustomizedUsers\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="CustomUserx-Web.config Connection String" description="" value="Server=tcp:csuserdb.database.windows.net,1433;Initial Catalog=TemiDb;Persist Security Info=False;User ID=temmix;Password=13Seikos;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Fierce\ PC\\Desktop\\Development\\DotNetIdentity\\CustomizedUsers\\CustomizedUsers\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CustomUserx']/@connectionString" />
+  </parameter>
+</parameters>

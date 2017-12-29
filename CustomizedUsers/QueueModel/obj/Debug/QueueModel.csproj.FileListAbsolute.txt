@@ -1,0 +1,7 @@
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\bin\Debug\QueueModel.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\bin\Debug\QueueModel.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\obj\Debug\QueueModel.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\obj\Debug\QueueModel.pdb
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fierce PC\Desktop\Development\DotNetIdentity\CustomizedUsers\QueueModel\obj\Debug\QueueModel.csprojResolveAssemblyReference.cache
